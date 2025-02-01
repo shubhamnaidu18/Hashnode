@@ -4,7 +4,7 @@ datePublished: Sat Feb 01 2025 05:00:01 GMT+0000 (Coordinated Universal Time)
 cuid: cm6lq533w000809ju8yixciuw
 slug: protocols-ports-for-devops-a-simple-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738385863654/fcf27565-a11a-4cf7-a063-6cf7d7530883.png
-tags: networking, protocols, 90daysofdevops
+tags: simple, networking, protocols, 90daysofdevops
 
 ---
 
